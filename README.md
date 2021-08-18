@@ -56,8 +56,9 @@
  
 <p align="center">
 
-<a href="https://linkedin.com/in/mitul-kataria"><img src="https://img.shields.io/badge/-Mitul%20Kataria%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mitul.kataria.11@gmail.com"><img src="https://img.shields.io/badge/-mitul.kataria.11@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/_mitul.kataria_"><img src="https://img.shields.io/badge/-@_mitul.kataria_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/mitul.kataria.7"><img src="https://img.shields.io/badge/-@Mitul Kataria-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mitul-kataria"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mitul.kataria.11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/_mitul.kataria_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/mitul.kataria.7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  
 </p>
