@@ -5,8 +5,8 @@
 ### 💬 &nbsp;About Me
 
 
-- 🌱 I’m a final year undergrad student from Computer Science Department at IIT Palakkad.
-- 🔭 I’m currently working on Facial Recognition and Video Classification based tasks in the domain of Computer Vision.
+- 🌱 I’m a graduate from Computer Science Department at IIT Palakkad.
+- 🔭 I’m currently working at Otsuka Shokai to develop cutting-edge Generative AI solutions, tailored for the Japanese market.
 - 👯 I’m open to all learning opportunities and looking forward to solving some real world challenges.
 <!-- - 🤔 I’m looking for help with  -->
 <!-- - 📫 How to reach me: ... -->
@@ -58,7 +58,7 @@
 
 <a href="https://linkedin.com/in/mitul-kataria"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mitul.kataria.11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/_mitul.kataria_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/kmitul_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/mitul.kataria.7"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   
 </p>
